@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="soa/Hibernate" uuid="2a2d7e77-9c77-435c-8cf4-31fb7944cc84">
+      <driver-ref>greenplum</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Maciek/IdeaProjects/mkutyla-zad2/SOAProject-master/SOAProject-master/soa-jpa/src/main/resources/persistence.xml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgresql-42.2.12</jdbc-url>
+    </data-source>
+  </component>
+</project>

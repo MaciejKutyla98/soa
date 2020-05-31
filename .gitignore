@@ -1,0 +1,12 @@
+# Project exclude paths
+/lab1-ear/target/
+/lab1-ejb/target/
+/lab1-web/target/
+/soap-connector/target/
+# Project exclude paths
+/projekt-model/target/
+/rest-api/target/
+/rest-connector/target/
+/soa-dao/target/
+/soa-jpa/target/
+/soap-api/target/
